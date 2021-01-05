@@ -45,7 +45,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 15. Sprite movement animation
 16. Sound effects (one time ex. shooting)
 20. Lose when HP reaches 0
-24. Main Menu
+24. [Main Menu](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/main_menu)
 26. Change fire rate
 31. Set text to appear after delay (text sprites)
 33. Scrollable UI element
