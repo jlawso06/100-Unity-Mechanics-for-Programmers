@@ -56,7 +56,7 @@ Building Unity mechanics structured as a set of challenges. 100 sample programs 
 39. Change scene on key press
 40. Game over screen (restart button)
 42. Make UI Scalable to Screen Size
-43. Ability cooldown
+43. [Ability cooldown](https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/ability_cooldown)
 44. Tile Maps
 45. Heads Up Display UI (HUD)
 50. Shader Graphs
